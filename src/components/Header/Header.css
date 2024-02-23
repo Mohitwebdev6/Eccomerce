@@ -1,0 +1,6 @@
+@media (width<600px) {
+    nav {
+        transform: translateX(-110%);
+        transition-duration: 0.5s;
+    }
+}
